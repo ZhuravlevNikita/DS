@@ -1,1 +1,3 @@
-Voila
+fastai
+voila
+ipywidgets
