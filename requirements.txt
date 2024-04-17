@@ -1,4 +1,5 @@
-Fastbook
-fastai
 voila
-ipywidgets
+fastai
+pillow<7
+packaging
+ipywidgets==7.6.3
